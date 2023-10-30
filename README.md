@@ -4,7 +4,9 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Software Engineer
 -----------------
 
-I'm a Teenage Software Developer
+I am a tech explorer and coding enthusiast, traversing through the vast landscapes of programming languages and frameworks. With a curious mind and an unwavering passion for innovation, I'm always on the lookout for exciting challenges that push the boundaries of what's possible.
+
+My Inter
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [iamAgbaCoder](http://lade)
@@ -42,6 +44,14 @@ src="https://img.shields.io/twitter/follow/iamAgba_Coder?logo=twitter&style=for-
 <a href="http://www.github.com/iamAgbaCoder"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=iamAgbaCoder&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/iamAgbaCoder" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamAgbaCoder&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamAgbaCoder&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamAgbaCoder&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamAgbaCoder&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamAgbaCoder&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamAgbaCoder&theme=dracula)
+
 
 ### Support Me
 
