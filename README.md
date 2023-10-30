@@ -16,7 +16,7 @@
 
 - 💬 Ask me about Tech, Linux, Python, Pentesting, Hacking, Software Testing and Open Source... 
 
-- 📫 How to reach me: ... **demiladebamgboye@gmail.com**
+- 📫 How to reach me: ... **demiladebamgboye@gmail.com** & **hi.agbacoder@gmail.com**
 
 - ⚡ Fun fact: **I build stuff!**
 
