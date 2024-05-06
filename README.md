@@ -1,4 +1,4 @@
-Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Favour Bamgboye
+Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Oluwademilade Bamgboye
 =====================================================================================================================================
 
 Software Engineer
@@ -8,8 +8,8 @@ I am a tech explorer and coding enthusiast, traversing through the vast landscap
 
 My Inter
 
-* 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [iamAgbaCoder](http://lade)
+* 🌍  I'm based somewhere around the globe
+* 🖥️  See my portfolio at [iamAgbaCoder](http://iamagbacoder.github.io)
 * ✉️  You can contact me at [demiladebamgboye@gmail.com](mailto:demiladebamgboye@gmail.com)
 * 🚀  I'm currently working on [Apere Store](http://apere.store)
 * 🧠  I'm learning FastAPI, Dart, Golang and React Native
